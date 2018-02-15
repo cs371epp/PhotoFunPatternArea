@@ -10,7 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 
 /**
  *  class PhotoFun controls this photo manipulation app.
- *  Area
+ *  Area Demo
  *
  *  @author  Edward C. Epp
  *  @version November 2017
